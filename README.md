@@ -1,16 +1,65 @@
-### Hi there 👋
+### Hi there, I'm Abel 👋
 
-<!--
-**abelbg/abelbg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Website](https://img.shields.io/website?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAXQAAAF0CAIAAAC8AVUEAAAUYklEQVR42uzUoRkBUACFUWOxBkwAWfa6agMwAlgHWACAAhEUAM79Tr7xj8Rym2gW4MHEBRAXQFyAU%2BICIC6AuADiAiAugLgA4gIgLoC4AOICIC6AuADiAiAugLgA4gIgLoC4AOICIC6AuADiAiAugLgA4gIgLoC4AOICIC6AuADiAiAugLgA4gIgLoC4AOICIC6AuADiAiAugLgA4gIgLoC4AOICIC6AuADiAiAugLgA4gIgLoC4AOICIC6AuADiAiAugLgA4gIgLoC4AOICIC6AuADiAiAugLgA4gKcEhdIhXWmuLpHonB2i7hAvbOY3LdKc3G4QlxAXBAXxAVxQVwQFxAXxAVxQVwQF8QFxAVxQVwQF8QFcQFxQVwQF8QFcUFcQFwQF8QFcUFcEBceSVwQFxAXxAVxQVwQF8QFxAVxQVwQF8QFcQFxQVyuypdWvdHkZZJhLS4fHpcdRXRtBDEMRQGw%2F%2BLMFjMr%2Fk%2F5wcx2sH1Sm1QnykDpyJ1S%2B9%2BFn0K%2BkMtk059J0JFUwI%2F0EB7cgVswi9fgMbg1boVL4VTrlOsQa%2F%2BydxduUaxtGMD%2FrtPd3d1hywG7O%2BiwizAIW8r8aOxAVMJObIVn3vSqj9OHlcWFeWZm173v677ipLr77I%2Bdet9WcaQlbA%2BcEI1Nou6orD4kd%2B%2BXJbvloo16xko9It18PsXG2GcQuOSUSPIxYxdq4BLluFC0prOLuqkqr%2F9dnF%2FmGeAS7S2vF%2BRjlm0BLsCFJ9duOKW1YtoK%2FcJw4BKVbTnnkI%2FZvV8CF%2BDCm%2FudtLlajszQwCWuJ%2BnsJQIuwMWjNLU5U5Zp4BIVfTPJku8BLsDFe2IMcAm4w9I0%2BZ4PxgMX4OJ5NuwRLw63wCWwphcq8j1J2Qa4ABcfcuYiJWZZ4BJMt9ZI8j0LNyjgAlx8y4yVGrgE0OZ2h3zP9kYJXICLn8kpUXGBC8ao%2FYIDXICLz8koVMDFv76SYCmgABfg4n%2F8u0oNXAbN1xRQ3h5tgQtw8T8%2BPTQAXFLWBIZLQoYGLsDF%2Fxw8KYCLH92wR1JAySpWwAW4BJKFGzRw8bxHWhwKKKW1ArgAl6Dy%2BVQLXLxtZxcFlVNnHeACXILKpioJXDzs88MsBRrgAlwCzDczDHDxqj%2FNNRRoXk%2B0wAW4BJXSOglcvOqcPE2BZmiqBi7AJcC89psFLp60aKekQJO2TgEX4BJg5hVo4OJJ9zcLCjSbqyVwAS4BZn%2BzAC6e9M7d4Ff0AS7AJdi8P84CF%2BY%2BMyQqBgi4AJdgM22FBi7M%2FW6mpSjIyyPjAhfgsnu%2F%2FKc798ntjaK8XpTVyW21cnOV2FQl1%2B%2BRJbtVaZ2sPypOnhW37jixemwOXKav1BQF%2BXW%2BAS7xgMvAbpXIKlZNbYK8zPkrDnBh7uoKSVGQ%2BQUKuACXvpu8Wl294Xi5orMFLpxtbIoKXNbvkcAFuDyyn022py96twWoAS6cvX6LoiGHTznABbhE6MuZSw55kGWbFXDhLEVH7t0n4AJcIuy4RZo8yJ4DAriw9ctpltwlv1zdvUcseXaIBS7AJcJWNIioXtEZuExeqsldZuXqY20OceTHOQa4AJcI%2B%2B1MQ9y5dQe48HVVqXS9EKneViuII7NzFXABLsGucPb8MAtceFpz2C0ubyTZBesVcaRoJ3ABLjx7hAZ%2FNRq4XLnuuJ%2BVsQuN%2Fw%2BPARfg8ulkS9z5YbYBLlExOpeu%2FX6M%2BvlUy3TES8AFuPSr9zujcmkh4PLJJLcoNBz7%2FbvGk4PYRvDJX4ELcOlHm9ocYk1StgEuUXGzQNFO%2Bff63g5x5NsZBrhEXuDCcTGhRyYu0cCFocu3KHKXlLV%2FvRPH2wVxZPpKDVyAS4BPxs1cBVw4uvuAJHcZkf7XO1FWJ4kj3bMCXICLjz8gQ5O8RgEXhl64wrZ416KNmjjS2ARcgEs%2Fml0CXKKyjIMybpEhjly%2F6QAX4NKfRRg0cIm6fjDekrvcuP0vBF9Mtf4PH3ABLjNXKeASdR2VY8hdDp389563p%2FiuRnc7BVyAC3CJ4S7aIHnXHO3qIpZMWWaAC3ABLjHc7Y2C3CW7pMfb0NzuEEdyyxRwAS7AJYbrfi2v0Tk9vmKU1wviSM1hAVwYClyCWssZuJDrfDa5x8mRxRsVceRKhwNcgipwmb7SABdXfWfMA%2FYpGc%2B38iBwYShwCWSNbuCSkOEWgvudFLpi5lRDTPl4kgUugRS4jEgHLu6aVazIXU6cDj0z8vRgS0wZv0gDl0AKXH6eC1zctdT1s6QVDcK7QVyxFbgEU%2BDy1TQLXFy15ZxD7rK0tx1eTp5xmHZ4kMAFuASy0iWWuQx%2BYiaH3OrGejX6%2FBUCLv4XT0V3dZGrjzZweT3RMqzqNDMEeM6r0UTAJaICl8IdkvjSeh5bi7jr0FRNrvPc0F7%2BzxOWGGLK%2B%2BOAC3DhPXuIHRe9b9pa5dGIfDXdElNG5xjgAlwe2cYmSQxhWqsMuGyulh7tevnMELZZXLxRARfg8sh23Iime%2F%2BBS3O74923R2LKjr0CuAAX9jWJ%2Bs6QFANcAh6X%2FHIV9iL3WYc4cvqiA1z6LnBJyjbEl3v3qXuTHOAy8L40kgH7Wblhb3KrbBDEFOACXPy8VFR9yN2XZeDyyzzNcYt0WFyWbtbElDdHWeASrsDllQTb2UWMySqWwMVV53MsaPxKQtiP%2FUS%2Bq9EJmQa4hCtwySpSxJof5xjg4qrrd0tP5%2BPrGZaYklOigEuvBS5vJJrLHcSYi1ddn%2BMDLkdbheu3oa%2F5eHYIGy7l9QK49FrgUtEgiDXLNivgEvysNByT%2FoxjyzkHuACXMLIw58MJFri46nNDLRHxbD4fvm3nHY8GEbgAl4IKRdxhuKkKuPw4x%2FqwPHr3W0VMeTXBAhfg8veFThOyuzlXkrINcHHbWbmaXGdY6iNWclq2WRFThqbqOMcFuLw00mYVqz0HBHmTXfs4rkADl3UcNx29PfoRv8qkpZqYklGogMtjhstvmWZ4uhmSogcn99Luvz9hsZlXoBZvVJuq5Amm5cf63sQCuDD0wAnhw0%2Beb2YYYsrWGglcgi091skqZnrBgcu9%2Bw7D5vPsp43Dp7ndAS7AhTWhm50DF4aG3yue%2F%2F0gvgAX4OJFWs%2FRu2MfABeefsNx7%2Bymqohwab9AXHlhuAUuwIU3V284nKv8A5dpK7Rvx6i79gliyi%2FzDHABLryrcA9OZh0q4JJfLn27I2D5VkVMSVmrgQtw4Urzaef7WdyyAJfGJkGu81Fkd0lPWWaIKRv%2FJ4ELcGHJtlr57BAPjoaAy607jm%2BnV7%2BbaYkpR1sc4AJc3K8yl1nk2WsLXIiIefP58H1h%2BAO%2BI2TgAlwGns4uWrlNvfabZ19YgMvnU63Pd50QX54ZAlyAy0CyfIt60eurjcBl4hJNrlPR0I%2FTH2cvOcSUH2Yb4AJcBnTnhPxqOnDxuKu2KXKdJZv6ceFmD98DrHPyFHABLi5W3pYePvcMXGqPCHKdCYuNL5yFpngXcAEuDAf1w9M0cOHvtRvkPl%2F256bGKcs0MeXgSQFcgAtLckslcInGEXny137g8t0sQ0y5c5eAC3DhyvF2Z3CyBi48%2FXii9f8ZwheGW2ILcAEuzJm8VAMXho5ZoImIYfP54Oby6xkWuEQdLvAFuCzlWHdyz4F%2BH6yev%2BIQU6avjL45AC7wBbiwrD%2B6qv9nwqoPSWLKmkoJXICLFxm70ACXgffSNXKfaSv6bXxemSKm7D0ugAtw8SIXrzmvJVrgEuR8DOBB9ekrDTHlxm0HuAAXj1JaK4DLQPreWBvUinDdHhFfgAtw8S5z8jRw6XeTsk1Qn%2B0XWa9Gfz7FAhfg4lE6O%2Bn9cRa49K8LN2gi4t98PrLG%2Fol94BIvWb5VAZfQ%2BrC5av3RAR6UXrhKXMkvV8DF%2F3qxCVkf%2FWSS%2FWiC%2FXKaHZRsRueYGSv14o2q%2BpDsuEle59oN56lBwKU%2FPXuJ3Gft9gFeCa45LIgptUcEcInnvaK%2FmGpyy9T9TvIuc%2FM1cPF7OObkD3DoC8oV43YQwCUOcQnpa4l22RZN3uRYmwNcIu1bo3mGY9BAt2KYsVITX4ALcPmzCZnm2g2HPMiwNA1cIuqIdE0ceX2gdxn9MNsQXz6cYIELcPmzn0yyXmxTX1CugEtEzSpSwQ7ESyMt8WXcIgNcgMs%2FHZamiTstZx3gElHL60Xgd8cSX1ZsVcAFuPTc6k8Rdz6bYoBLJHs2O4EvBHe5g7hSdVACF%2BAS0qvcJ1%2FS1ing4tNkbNjj6iNdd1QQUy5cJeACXEJasltSn%2BG%2F6QG4vPabjQbI11Qq70YTuACXhAxNrLl5m4DLIzo4WRNHRma4OgSdlauJL%2B%2BMscAFuHh9ZPT2aAtc%2BmrqWkUceW%2Bcq9%2FGz3MN8SUxSwMX4BLS7Y2CWDMoWQOXvrq1RkbDNLwcejWaeWM24AJcFm9UxJpZuQq49NWTZxzuzeeDH9Bd%2ByRwAS4PLUFviDV5ZRK49FWmTV4Yzpxfue4QU85eIuACXLg3zwnNrv0CuHi%2BUFNpHQPhDccE8QW4AJeHe%2FuuQ3w50gJcvD%2BNunA9w7iv3S6JL28kWeACXJgvGEX%2BEABwmVegiSOjcxhOoM7JU8SXEekauAAX1nWLQnPuMgGXsN2wRxJHPpnE8DXhl3mG%2BJJdLIELcAlpy1mH%2BNJx0wEuYXuszYmeUXg1wRJfKhoEcAEuIT3WyonL3XsEXDyficYmwVLiS9t5B7gAl5DubxbEmqcHA5fe%2BswQS491gAtwCWnjMWZcXh5pgUsv%2FX527OMS6BsPXIDLa4nAhf9ZwRjI4BQDXIALcAmgRTslPXYJfjkf4AJcgMvhU4Ie62yrlcAFuACXANrZSY93Tp4VwAW4ABe%2F%2B%2BSvDygOAlyAC3Dxu19NtxQHeX4YcAEuwMXfTlthKA7y81wDXIALcOEv%2F4LYsZb5BQq4ABfg4mv3HRcUB9n4PwlcgAtw8bV37jkUBznW5gAX4AJcfC3FTYALcAEu%2FvWzyZbiJk%2F%2BaoELcAEuPnXiEk1xk%2B9mARfgAlz8am6ZorjJrFwNXIBL%2BEdegAtr649JipsU7ZTABbiE7NLFd5cmcOnZ67ccipscPiWAC3D5s%2BcuO8SXri4scxmnl4pCFzoFLsCl4yYnLrfuOMClRz%2BcYCnOAlyAS3efG%2FqAWHO5g4BLyI65muIsX041wAW4fDfTEpGHi8ADl%2BVbFcVZpq3QwAW4TF2uiTX7jgvg0qPVhyTT5vPOpioZYTf%2Ft9V%2Ft0psqZZ%2FV2ytkX9XEGvWVCrgAlxWlSpiTWUDcOnZKx0OcaS01sNXlv0nDHABLu0XiDeFOxVw8WQOFqz38JU92ir4z%2BoDlzjGZUS6Ju4s3ABc%2FtN3xlhiytiFHp4lXblNEWuAS5zjsrVGEnfGLTLA5d8mZRtiymeTPbw3cViqJtZ8MskCl7jFpVsB8iAfTbDA5d8u3qiIKbG1fviExRq4xCcu7497cPEqsafjZs9jbeCya58gjty%2B68TWvOaWKeASh7h8MdU0tzvkQeqOSuDSoxeuOsSRwy2eX3%2FhHgUBXOINl8nL9I3bDnmTxRsVcPFkCDZXec52x02H%2F0sscIkDXF5NsGMXmsOnhH8bSwCXN5MsMSWzyPP5bmwSxBrgEkO4pBeqtHU6eY2aV6Dm5utZuXrmKhWus3NVVpFasVUV7VRHWhzyPldv9PhZBVw4L%2FUnZtmYe0zhg%2FEWuHhUirOU1kng0qM5JYqY8qH3F%2BEGJ2tizZgFBrgAF5aMyjHApUcrGwQxJRZHdtlmBVyAi%2Fu0PvwwNHA5fZFYcv2mE4sjW3VQAhfg4j6ZhRK4eDUB%2B5tFLI7s5Q4HuAAXl%2BnsemhRbuDySoIlppTs9knulrMOsQa4ABeXWb7loRcfuAxJMcSUlDU%2Bvb4VDYJY8%2FZo4AJcXJ0QeGnEA%2BAS2vRCRUwZnm4CeBKKI79lGuACXAacrF5v7wIu22oFMeWdMT4dcw5KNlGyAAdwAS57wy05BlxazjnElNid2h17BXABLgPLV9MtcOm9MbqdArHm3GUHuACXAZ1nDLNkB3B5fpglptT7%2B3hxx82ALxgBF%2BCypjL85VHg8ss8Q0xZu93XF7qxKcidw4ELcCmv73PggUvyakVMmVvg6%2FfDdTsksWZ4mgEuwCXC1B551Pd04LK5ShJTBif7%2BuGcm68DuZoIXIDLtkg2zwEujCv9vZFoAjig4%2FyWK4ALcHlkVldEdjQEXGL6hCj3%2Fr4EXIBLH%2BnspLn5kR37A5enB1u%2BS7kU%2B4MLXIBLX2stfz4l4lP%2BwOX7WYaYUnWI%2FZgigMcXXxxugQtwefgeqPkF%2FXxhgcucPE1MKShnf%2FUDeHxxULIBLsDlv%2FeFphcO6DgIuJTslsSUmasCeA8WbZDEmtS1CrgAl%2B7sOy6mrXAx0sCFcT30n4LYTmHsQkOs2VIt4xkX4HLyjNP9LjAMM3AhvrySEMDZik8mWWLNiTNOvOECXFrOOaW1Ym6B%2FniijUYvgAv23HJR4OLh0pM3bzuXrlH7Baf5tNh3XFQ2iMIdctEGOSdPD0o2L43wHhTsuIjiwcX%2Ft1MHFgAAIQAA91%2F0PYAmaIOgCB03wyGXEnJBLiAX5IJckAtyQS4gF%2BSCXJALckEuIBfkglyQC3JBLiAX5IJckAtyQS4gF%2BSCXJALckEujJALcgG5IBfkglyQC3IBuSAX5IJckAtyAbkgF%2BSCXJALcgG5IBfkglyQC3K5CLkgF%2BSCXJALcgG5IBfkglyQC3IBuSAX5IJckAtyAbkgF%2BSCXJALcgG5IBfkglyQC3IBuSAX5IJckAtyQS7vR8NWLsgFkAuAXAC5AHIBkAsgF0AuAHIB5ALIBUAugFwAuQDIBZALIBcAuQByAeQCIBdALoBcAOQCyAWQC4BcALkAcgGQCyAXQC4AcgHkAsgFQC6AXAC5AMgFkAsgFwC5AHIB5AIgF0AugFwA5ALIBZALgFwAuQByAUhDdSpcoWgAVAAAAABJRU5ErkJggg%3D%3D&style=for-the-badge&up_color=green&up_message=UP&url=http%3A%2F%2Fwww.abelbriones.com)](http://abelbriones.com/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Test !!
+
+- 👨‍🎓 Master's Student in Cognitive Science and Interactive Media at UPF.
+- 🌱 I’m currently learning Python, Java and JavaScript oriented to AI and Human-Computer Interaction.
+- 💻 I'm also a coding bootcamp student specialized in Data Science with Python (IT Academy).
+- 📋 I’m looking to complete new projects and further expand my portfolio.
+- 🥅 2021 Goals: 
+    - Regularly writing articles on Medium
+    - Contribute more to Open Source projects
+- ⚡ Fun fact: I'm also a Psychologist.
+
+### Connect with me:
+
+[<img align="left" alt="abelbriones.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.17.0/icons/headspace.svg" />][website]
+[<img align="left" alt="vbel_vbel | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.17.0/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Abel Briones Galarza | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.17.0/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Abel's Medium | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.17.0/icons/medium.svg" />][medium]
+
+
+<br />
+
+### Languages and Tools:
+
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
+[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
+<br />
+<br />
+
+---
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="abelbg's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=abelbg&show_icons=true&hide_border=true" />
+
+</details>
+
+[website]: http://abelbriones.com/
+[twitter]: https://twitter.com/vbel_vbel
+[linkedin]: https://www.linkedin.com/in/abelbriones/
+[medium]: https://medium.com/@abelbriones
