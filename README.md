@@ -44,9 +44,6 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
-    
-![abelbg's GitHub stats](https://github-readme-stats.vercel.app/api?username=abelbg&show_icons=true&theme=nord)
-
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
@@ -54,6 +51,14 @@
     
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+
+</details>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>  
+  <br />
+    
+![abelbg's GitHub stats](https://github-readme-stats.vercel.app/api?username=abelbg&show_icons=true&theme=nord)
 
 </details>
 
