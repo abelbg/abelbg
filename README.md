@@ -1,4 +1,4 @@
-## Hi there, I'm Abel 
+## Hi there, I'm Abel 👋🏼
 
 Come visit my personal website and portfolio:
   
@@ -20,7 +20,7 @@ Come visit my personal website and portfolio:
 [<img align="left" alt="vbel_vbel | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.17.0/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Abel Briones Galarza | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.17.0/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Abel's Medium | Medium" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.17.0/icons/medium.svg" />][medium]
-[<img align="left" alt="abelbriones.com" width="30px" src="https://raw.githubusercontent.com/abelbg/portfolio/master/assets/media/icon.png" />][website]
+[<img align="left" alt="abelbriones.com" width="30px" src="https://raw.githubusercontent.com/abelbg/portfolio/master/assets/media/bw-icon.png" />][website]
 
 <br />
 
