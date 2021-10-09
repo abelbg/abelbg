@@ -47,6 +47,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How I got my first Freelance Project in UI Designing](https://medium.com/quick-design/how-i-got-my-first-freelance-project-in-ui-designing-a2f2a2b1546d?source=rss-b2f004618c33------2)
+- [Example Project](https://www.abelbriones.com/project/example/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
