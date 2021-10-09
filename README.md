@@ -4,14 +4,14 @@
 
 ## Test !!
 
-- 👨‍🎓 Master's Student in Cognitive Science and Interactive Media at UPF.
+- 👨‍🎓 Master's Student in Cognitive Science and Interactive Media @ UPF.
 - 🌱 I’m currently learning Python, Java and JavaScript oriented to AI and Human-Computer Interaction.
-- 💻 I'm also a coding bootcamp student specialized in Data Science with Python (IT Academy).
+- 💻 I'm also a coding bootcamp student specialized in Data Science with Python @ IT Academy.
 - 📋 I’m looking to complete new projects and further expand my portfolio.
-- 🥅 2021 Goals: 
-    - Regularly writing articles on Medium
-    - Contribute more to Open Source projects
-- ⚡ Fun fact: I'm also a Psychologist.
+- ✅ 2021 Goals: 
+    - ✏ Start writing articles on Medium
+    - 🤝 Contribute more to Open Source projects
+- 🧠 Fun fact: I'm also a Psychologist.
 
 ### Connect with me:
 
@@ -25,13 +25,14 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
-[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
-[<img align="left" alt="Azure" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" />]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="Azure" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
 <br />
 <br />
 
@@ -54,8 +55,9 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
+    <br />
+![abelbg's GitHub stats](https://github-readme-stats.vercel.app/api?username=abelbg&show_icons=true&theme=nord)
 
-  <img align="left" alt="abelbg's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=abelbg&show_icons=true&hide_border=true" />
 
 </details>
 
