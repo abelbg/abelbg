@@ -23,6 +23,7 @@ Come visit my personal website and portfolio:
 [<img align="left" alt="abelbriones.com" width="30px" src="https://raw.githubusercontent.com/abelbg/portfolio/master/assets/media/bw-icon.png" />][website]
 
 <br />
+<br />
 
 ---
 
@@ -45,9 +46,6 @@ Come visit my personal website and portfolio:
 
 [![Processing Badge](https://img.shields.io/badge/-Processing-006699?style=for-the-badge&labelColor=black&logo=processingfoundation&logoColor=#adbbc4)](#)
 [![Seaborn Badge](https://img.shields.io/badge/-Seaborn-3C873A?style=for-the-badge&labelColor=black&logo=canonical&logoColor=3C873A)](#) 
-
-<br />
-<br />
 
 ---
 
