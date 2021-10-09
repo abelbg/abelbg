@@ -40,12 +40,14 @@ Come visit my personal website and portfolio:
 
 ### Packages:
 
-[![Scikit-learn Badge](https://img.shields.io/badge/-Scikit—learn-F7931E?style=for-the-badge&labelColor=black&logo=scikit-learn&logoColor=52b7ff)](#)
+[![Scikit-learn Badge](https://img.shields.io/badge/-Scikit—learn-f0b54f?style=for-the-badge&labelColor=black&logo=scikit-learn&logoColor=52b7ff)](#)
 [![Tensorflow Badge](https://img.shields.io/badge/-Tensorflow-FF6F00?style=for-the-badge&labelColor=black&logo=tensorflow&logoColor=#)](#) 
 [![OpenCV Badge](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&labelColor=black&logo=opencv&logoColor=#)](#) 
 
 [![Processing Badge](https://img.shields.io/badge/-Processing-006699?style=for-the-badge&labelColor=black&logo=processingfoundation&logoColor=#adbbc4)](#)
 [![Seaborn Badge](https://img.shields.io/badge/-Seaborn-3C873A?style=for-the-badge&labelColor=black&logo=canonical&logoColor=3C873A)](#) 
+
+<br />
 
 ---
 
