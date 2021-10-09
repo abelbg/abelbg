@@ -27,7 +27,7 @@ Come visit my personal website and portfolio:
 
 ---
 
-## Languages and tools:
+## Languages and tools
 
 [![Python Badge](https://img.shields.io/badge/-Python-5168bd?style=for-the-badge&labelColor=black&logo=python&logoColor=f9b90c)](#) 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
