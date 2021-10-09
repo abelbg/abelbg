@@ -6,7 +6,7 @@ You can also come and visit my personal website and portfolio:
     
 ## About me
 
-- 👨‍🎓 Master's Student in Cognitive Science and Interactive Media @ UPF.
+- 👨‍🎓 I'm a Master's student in Cognitive Science and Interactive Media @ UPF.
 - 🌱 I’m currently learning Python, Java and JavaScript oriented to AI and Human-Computer Interaction.
 - 💻 I'm also a coding bootcamp student specialized in Data Science with Python @ IT Academy.
 - 📋 I’m looking to complete new projects and further expand my portfolio.
