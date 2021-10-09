@@ -15,14 +15,6 @@ Come visit my personal website and portfolio:
     - 🤝 Contribute more to Open Source projects
 - 🧠 Fun fact: I'm also a Psychologist.
 
-### Reach me out:
-
-[<img align="left" alt="vbel_vbel | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.17.0/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Abel Briones Galarza | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.17.0/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Abel's Medium | Medium" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.17.0/icons/medium.svg" />][medium]
-[<img align="left" alt="abelbriones.com" width="30px" src="https://raw.githubusercontent.com/abelbg/portfolio/master/assets/media/bw-icon.png" />][website]
-
-<br />
 <br />
 
 ---
@@ -80,3 +72,11 @@ Come visit my personal website and portfolio:
 [twitter]: https://twitter.com/vbel_vbel
 [linkedin]: https://www.linkedin.com/in/abelbriones/
 [medium]: https://medium.com/@abelbriones
+
+---
+## Reach me out
+
+[<img align="left" alt="vbel_vbel | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.17.0/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Abel Briones Galarza | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.17.0/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Abel's Medium | Medium" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.17.0/icons/medium.svg" />][medium]
+[<img align="left" alt="abelbriones.com" width="30px" src="https://raw.githubusercontent.com/abelbg/portfolio/master/assets/media/bw-icon.png" />][website]
