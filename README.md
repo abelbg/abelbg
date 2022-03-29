@@ -10,7 +10,7 @@ You can also come and visit my personal website and portfolio (currently under c
 - 🌱 I’m currently learning Python, Java and JavaScript oriented to AI and Human-Computer Interaction.
 - 💻 I'm also a coding bootcamp student specialized in Data Science with Python @ IT Academy.
 - 📋 I’m looking to complete new projects and further expand my portfolio.
-- ✅ 2021 Goals: 
+- ✅ 2022 Goals: 
     - ✏ Start writing articles on Medium
     - 🤝 Contribute more to Open Source projects
 - 🧠 Fun fact: I'm also a Psychologist.
