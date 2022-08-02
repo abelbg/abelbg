@@ -6,37 +6,78 @@ You can also come and visit my personal website and portfolio (currently under c
     
 ## About me
 
-- 👨‍🎓 I'm a Master's student in Cognitive Science and Interactive Media @ UPF.
-- 🌱 I’m currently learning Python, Java and JavaScript oriented to AI and Human-Computer Interaction.
-- 💻 I'm also a coding bootcamp student specialized in Data Science with Python @ IT Academy.
-- 📋 I’m looking to complete new projects and further expand my portfolio.
+- 👨‍🎓 I'm a Master's student in Artificial Intelligence @ UPC.
+- 💻 I've done a Data Science Bootcamp @ IT Academy.
+- 🌱 I’m currently extending my MLOps and DataOps stack.
+- 📋 I’m looking to further expand my portfolio by making new data-oriented projects.
 - ✅ 2022 Goals: 
+    - 🏗️ Complete the [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) of DataTalksClub
     - ✏ Start writing articles on Medium
     - 🤝 Contribute more to Open Source projects
-- 🧠 Fun fact: I'm also a Psychologist.
-
+- 🧠 Fun fact: I have a BSc in Psychology.
 
 ---
 
-## Languages and tools
+### Main Languages
+[![Python Badge](https://img.shields.io/badge/-Python-5168bd?style=for-the-badge&labelColor=black&logo=python&logoColor=f9b90c)](#)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&labelColor=black&logo=r&logoColor=white)
 
-[![Python Badge](https://img.shields.io/badge/-Python-5168bd?style=for-the-badge&labelColor=black&logo=python&logoColor=f9b90c)](#) 
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
-[![Java Badge](https://img.shields.io/badge/-Java-CC0000?style=for-the-badge&labelColor=black&logo=java&logoColor=fff?)](#)
+### DataOps Stack
+- Databases:  
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&labelColor=black&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/-MYSQL-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=fff)](#)
 
-[![MySQL Badge](https://img.shields.io/badge/-MYSQL-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=fff)](#)
-[![Hugo Badge](https://img.shields.io/badge/-HUGO-e535ab?style=for-the-badge&labelColor=black&logo=hugo&logoColor=FF4088)](#)
-[![Azure Badge](https://img.shields.io/badge/-Azure-3399ff?style=for-the-badge&labelColor=black&logo=microsoftazure&logoColor=3399ff)](#) 
+- Cloud Providers:  
+[![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&labelColor=black&logoColor=white)](#)
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&labelColor=black&logoColor=white)](#)
+[![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&labelColor=black&logo=google-cloud&logoColor=white)](#)
+
+- ETL:  
+[![Apache Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)](#)
+[![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&labelColor=black&logo=Databricks&logoColor=white)](#)
 
 
-### Packages:
+- Infrastructure:  
+[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&labelColor=black&logo=docker&logoColor=white)](#)
+[![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&labelColor=black&logoColor=white)](#)
+[![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&labelColor=black&logoColor=white)](#)
 
+- Servers / Orchestration:  
+[![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&labelColor=black&logoColor=white)](#)
+[](#)
+[](#)
+
+- Terminal:   
+[![Bash](https://img.shields.io/badge/Bash-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&labelColor=black&logoColor=white)](#)
+[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&labelColor=black&logoColor=white)](#)
+
+[](#)
+[](#)
+[](#)
+
+
+### ML/DL Stack
+
+- Python packages:  
 [![Scikit-learn Badge](https://img.shields.io/badge/-Scikit—learn-f0b54f?style=for-the-badge&labelColor=black&logo=scikit-learn&logoColor=52b7ff)](#)
 [![Tensorflow Badge](https://img.shields.io/badge/-Tensorflow-ff8f00?style=for-the-badge&labelColor=black&logo=tensorflow&logoColor=ff8f00)](#) 
-[![OpenCV Badge](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&labelColor=black&logo=opencv&logoColor=#)](#) 
+[![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&labelColor=black&logo=opencv&logoColor=white)](#) 
 
-[![Processing Badge](https://img.shields.io/badge/-Processing-006699?style=for-the-badge&labelColor=black&logo=processingfoundation&logoColor=#adbbc4)](#)
-[![Seaborn Badge](https://img.shields.io/badge/-Seaborn-3C873A?style=for-the-badge&labelColor=black&logo=canonical&logoColor=3C873A)](#) 
+- Visualization:  
+[![Seaborn Badge](https://img.shields.io/badge/-Seaborn-3C873A?style=for-the-badge&labelColor=black&logo=canonical&logoColor=3C873A)](#)
+[![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&labelColor=black&logo=plotly&logoColor=white)](#)
+
+[](#)
+
+- Prototyping:  
+[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](#)
+[![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)](#)
+
+
+- Academic:  
+[![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&labelColor=black&logoColor=white)](#)
+[![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](#)
+[![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](#)
 
 ---
 
@@ -51,7 +92,9 @@ You can also come and visit my personal website and portfolio (currently under c
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
     <br />
-    
+
+![abelbg's GitHub activity](https://activity-graph.herokuapp.com/graph?username=abelbg&theme=minimal)
+
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
@@ -73,7 +116,6 @@ You can also come and visit my personal website and portfolio (currently under c
 ---
 ## Reach me out
 
-[<img align="left" alt="vbel_vbel | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.17.0/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Abel Briones Galarza | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.17.0/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Abel's Medium | Medium" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.17.0/icons/medium.svg" />][medium]
 [<img align="left" alt="abelbriones.com" width="30px" src="https://raw.githubusercontent.com/abelbg/portfolio/master/assets/media/bw-icon.png" />][website]
