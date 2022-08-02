@@ -33,7 +33,7 @@ You can also come and visit my personal website and portfolio (currently under c
 [![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&labelColor=black&logo=google-cloud&logoColor=white)](#)
 
 - ETL:  
-[![Apache Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)](#)
+[![Apache Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&labelColor=black&logoColor=#E35A16)](#)
 [![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&labelColor=black&logo=Databricks&logoColor=white)](#)
 
 
@@ -42,7 +42,7 @@ You can also come and visit my personal website and portfolio (currently under c
 [![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&labelColor=black&logoColor=white)](#)
 [![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&labelColor=black&logoColor=white)](#)
 
-- Servers / Orchestration:  
+- Orchestration:  
 [![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&labelColor=black&logoColor=white)](#)
 [](#)
 [](#)
@@ -70,14 +70,13 @@ You can also come and visit my personal website and portfolio (currently under c
 [](#)
 
 - Prototyping:  
-[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](#)
-[![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)](#)
+[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&labelColor=black&logoColor=white)](#)
+[![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&labelColor=black&logoColor=white)](#)
 
 
 - Academic:  
 [![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&labelColor=black&logoColor=white)](#)
-[![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](#)
-[![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](#)
+[![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&labelColor=black&color=525252)](#)
 
 ---
 
