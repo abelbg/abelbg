@@ -7,9 +7,9 @@ You can also come and visit my personal website (currently under construction �
     
 ## About me
 
-- 👨‍🎓 I'm a Master's student in Artificial Intelligence @ UPC.
-- 💻 I've done a Data Science Bootcamp @ IT Academy.
-- 🌱 I’m currently extending my MLOps and DataOps stack.
+- 👨🏽‍💻 I'm a Junior Data Engineer @ SCRM - Lidl International Hub
+- 👨‍🎓 I'm a Master's student in Artificial Intelligence @ UPC
+- 🌱 I’m currently extending my Data Engineering stack.
 - 📋 I’m looking to further expand my portfolio by making new data-oriented projects.
 - ✅ 2023 Goals: 
     - 🏗️ Complete the [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) of DataTalksClub
@@ -23,11 +23,11 @@ You can also come and visit my personal website (currently under construction �
 [![Python Badge](https://img.shields.io/badge/-Python-5168bd?style=for-the-badge&labelColor=black&logo=python&logoColor=f9b90c)](#)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&labelColor=black&logo=r&logoColor=white)
 
-### DataOps Stack
+### Data Engineering Stack
 | Components   | Tools     |
 | --------------- | ---- |
 | Databases       | [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&labelColor=black&logoColor=white)](#)[![MySQL](https://img.shields.io/badge/-MYSQL-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=fff)](#) |
-| Cloud Providers | [![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&labelColor=black&logoColor=white)](#)[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&labelColor=black&logoColor=white)](#)[![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&labelColor=black&logo=google-cloud&logoColor=white)](#)  |
+| Cloud Providers | [![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&labelColor=black&logoColor=white)](#)[![Google Cloud](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&labelColor=black&logo=google-cloud&logoColor=white)](#)  |
 | ETL             | [![Apache Spark](https://img.shields.io/badge/Apache_Spark-E35A16?style=for-the-badge&logo=apachespark&labelColor=black&logoColor=white)](#)[![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&labelColor=black&logo=Databricks&logoColor=white)](#) |
 | Infrastructure  | [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&labelColor=black&logo=docker&logoColor=white)](#)[![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&labelColor=black&logoColor=white)](#)[![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&labelColor=black&logoColor=white)](#) |
 | Orchestration   | [![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&labelColor=black&logoColor=white)](#) |
