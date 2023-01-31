@@ -11,7 +11,7 @@ You can also come and visit my personal website (currently under construction �
 - 💻 I've done a Data Science Bootcamp @ IT Academy.
 - 🌱 I’m currently extending my MLOps and DataOps stack.
 - 📋 I’m looking to further expand my portfolio by making new data-oriented projects.
-- ✅ 2022 Goals: 
+- ✅ 2023 Goals: 
     - 🏗️ Complete the [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) of DataTalksClub
     - ✏ Start writing articles on Medium
     - 🤝 Contribute more to Open Source projects
